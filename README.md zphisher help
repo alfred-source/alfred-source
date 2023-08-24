@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @alfred-source
+- 🌱 I’m currently learning ...
+i am a complete noob and begginger to all this. i use iSH shell app on ios and i am trying to succesfully bash zphispher however i can't seem to do it right.
+all i get is:
+[!] Unsupported package manager, Install packages manua
+11y.
+zhisher.sh: line 149: tput: command not found zphisher.sh: line 150: tput: command not found
+-iphone-2:~/zphisher#
